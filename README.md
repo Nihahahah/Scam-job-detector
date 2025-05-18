@@ -1,0 +1,2 @@
+# Scam-job-detector
+AI-POWERED SCAM JOB DETECTOR
